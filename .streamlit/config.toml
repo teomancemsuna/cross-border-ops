@@ -1,0 +1,11 @@
+# Light theme, deliberately different from the dark capacity-planning app.
+[theme]
+base = "light"
+primaryColor = "#0F766E"
+backgroundColor = "#F6F7F9"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#111827"
+font = "sans serif"
+
+[server]
+headless = true
